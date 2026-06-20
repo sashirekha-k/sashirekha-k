@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on clinical/medical data analysis
 - 📫 How to reach me - here's my www.linkedin.com/in/jahnavi-k-2747b5256 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: usually people love yoga but in my case Yoga loves me ;)
 
 <!---
 sashirekha-k/sashirekha-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
